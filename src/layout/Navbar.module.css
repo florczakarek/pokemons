@@ -1,0 +1,22 @@
+.nav {
+  height: 80px;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  display: flex;
+
+  align-items: center;
+}
+
+.icons {
+  width: 100%;
+  display: flex;
+  margin: 0 20px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.icons img {
+  width: 200px;
+  height: 200px;
+}
